@@ -1,4 +1,7 @@
-### Hi there 👋
+### ✨ Hello ✨
+
+This is my GitHub Profile.
+
 
 <!--
 **ashtonellis/ashtonellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
